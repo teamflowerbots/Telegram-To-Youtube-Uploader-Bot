@@ -2,7 +2,7 @@ import os
 
 class Config:
 
-    BOT_TOKEN = "7649176510:AAHeWPvpk869PTVrVrgNX8hU3NETjLljjLo"
+    BOT_TOKEN = ""
 
     SESSION_NAME = "YouTube_uploder_tf_bot"
 
